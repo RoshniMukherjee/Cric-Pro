@@ -1,4 +1,6 @@
-Hey Kalvian,
+The output is attached here" 
+![image](https://github.com/RoshniMukherjee/Cric-Pro/assets/88767197/2cd2db21-3dcb-49fd-96a0-c1266c236e21)
+![image](https://github.com/RoshniMukherjee/Cric-Pro/assets/88767197/1644d503-3cbc-41f8-914c-d041d45cbaf8)
 
 This is a self-learning lesson where you will apply your HTML, CSS & JS knowledge to complete the challenges.
 
@@ -36,10 +38,7 @@ Now, using the data in the below-expected output, tabulate the scores of our pla
 
 Once you have tabulated the scores, create a pop-up that opens up on clicking a player's name.
 
-## Expected Output
 
-Here is a screenshot link of the expected output.
-https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro.png
 
 ## Image links required for the project:
 
@@ -57,4 +56,4 @@ https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-deve
         - [Yuvraj](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-yuvraj.png)
         - [Zaheer Khan](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-zaheer-khan.jpg)
 
-Happy Coding ❤️
+~Roshni Mukherjee❤️
