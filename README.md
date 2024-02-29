@@ -18,9 +18,6 @@ As a tribute to the Indian Cricket team, we at Kalvium wanted to build a ScoreBo
 
 Here is the boilerplate [link]((https://stackblitz.com/edit/web-platform-43bgdk?file=README.md) of the lab. Fork the project and get started with the lab.
 
-## How To Submit
-
-Save your lab project and submit your project link in this [form](https://docs.google.com/forms/d/1FsIKaMGG8g_xISwHg0oGVQJpgHCXVRQGSQmpytu-b_o/viewform?usp=pp_url&entry.1483932328=CSK101-M2-L61.1).
 
 ## Instructions
 
